@@ -6,8 +6,7 @@ title: "Igniting the fire"
 date: 2015-08-26
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Self Introduction
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
