@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Self Introduction"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-25
+date: 2024-01-15
 published: true
 labels:
   - Self Introduction
