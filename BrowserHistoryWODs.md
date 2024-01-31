@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "BrowserHistoryWODs"
 # All dates must be YYYY-MM-DD format!
-date: 20124-01-30
+date: 2024-01-30
 published: true
 labels:
   - WOD Reflection
