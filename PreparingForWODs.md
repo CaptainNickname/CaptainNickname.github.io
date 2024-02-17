@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Preparing for WODs"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-15
+date: 2024-02-17
 published: true
 labels:
   - WOD Essay
